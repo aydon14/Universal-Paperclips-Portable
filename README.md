@@ -5,9 +5,10 @@
 This is a portable version of Universal Paperclips made by Frank Lantz and Bennett Foddy. More specifically, this is a fork of the already forked code from Memalign. 
 
 GitHub: https://github.com/memalign/
+
 Website: https://memalign.github.io/
 
-Binaries can be found under releases. Supported OS include Windows x86 and x64, Linux x64, and MacOS x64 and arm64. Electron doesn't natively support Linux 32-bit.
+Binaries can be found under releases. Supported OS include Windows x86 and x64, and Linux x64. Electron doesn't natively support Linux 32-bit, and the MacOS versions failed to compress/upload.
 You can restart the game by deleting the 'userData' folder.
 
 ## Source Code Installation
