@@ -1,0 +1,15 @@
+{
+  "name": "Universal Paperclips Portable",
+  "version": "1.0.0",
+  "main": "src/start.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.2.1"
+  },
+  "keywords": [],
+  "author": "Aydon Fauscett",
+  "license": "GPL-3.0",
+  "description": "Universal Paperclips: Portable version made with Electron."
+}
